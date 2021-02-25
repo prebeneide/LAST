@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Planet Love";
+  src: url("../Font/planetlove/Planet-love.woff") format("woff");
+}
+
+body {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr auto 1fr;
+}
